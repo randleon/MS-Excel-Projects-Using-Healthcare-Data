@@ -1,0 +1,5 @@
+Question:  You are an analyst with a health advocacy group. Dataset 1 contains data that need to be presented to your team. 
+You have been tasked by your Team Lead to look at two fields - column F (Premature Death Value) and column K (Poor or Fair Health Value).
+
+    Prepare a chart that shows a comparison of the top five states with the highest sum of premature death value.
+    Prepare another chart that shows a comparison of the top five states with the highest average poor or fair health value.
