@@ -1,0 +1,7 @@
+Question:  For Dataset 2, which contains HCAHPS Summary data for October 2018, how would you test if there is a difference in mean values for “Nurse Communication” 
+across high/medium/low categories of “Recommend Hospital?”
+
+Define high/medium/low categories for “Recommend Hospital” using the 75th percentile as cutoff for high and the 50th percentile as cutoff for medium.
+State your null and alternative hypotheses.
+Run a test to accept or reject your hypothesis. 
+State your test statistics and interpretation of results.
