@@ -1,0 +1,7 @@
+You hypothesize that Communication With Nurses varies with Patient Recommendation of Hospital. Categorize facilities as Highly Recommended if 75% or more of the patients recommend the facility; else the facility is Not Highly Recommended. How would you test a hypothesis about the equality of Communication With Nurses across Highly Recommended and Not Highly Recommended VA facilities?
+
+    State your null and alternative hypotheses.
+    Undertake computation to test this hypothesis.
+    Report the results and interpretation of the t-test that you undertake. 
+
+Tool: Excel
